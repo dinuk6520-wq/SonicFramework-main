@@ -1,0 +1,4 @@
+Successfully loaded the URL: https://login.salesforce.com/?locale=in
+Storage state saved to: ./logins/salesforceLogin.json
+App Launcher is visible as expected.
+App Launcher is visible as expected.
